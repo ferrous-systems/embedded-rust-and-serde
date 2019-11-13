@@ -22,7 +22,9 @@ theme: black
 
 [james.munns@ferrous-systems.com](mailto:james.munns@ferrous-systems.com)
 
-2019-11-10
+Meeting Embedded
+
+2019-11-13
 
 ::: notes
 
@@ -660,6 +662,12 @@ turn C header files into Rust data/function declarations
 ## Bite sized task
 
 ## Lends well to tooling
+
+#
+
+![](./assets/ferrous.png)
+
+[ferrous-systems.com](https://ferrous-systems.com)
 
 # Embedded Rust and Serde
 
