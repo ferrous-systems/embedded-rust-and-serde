@@ -1,6 +1,6 @@
-# Embedded Rust in Fifteen Minutes
+# Embedded Rust and Serde: A Love Story
 
-emBO++ Conference, March 16th 2019
+Meeting Embedded, November 13th 2019
 
 * requires pandoc and [just]
 

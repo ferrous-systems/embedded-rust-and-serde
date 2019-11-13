@@ -30,6 +30,7 @@ theme: black
 
 ## what do i do?
 
+* core team: rust embedded working group
 * managing director at [ferrous systems](https://ferrous-systems.com)
 * embedded systems!
   * robotics
@@ -326,6 +327,7 @@ AdcReading data = {
 * non-optional static analysis
 * first class documentation
 * convenience without comprimise
+* features like iterators, generics, hygenic macros...
 
 ## A language that has learned
 
