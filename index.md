@@ -328,8 +328,8 @@ AdcReading data = {
 * cross compilation
 * non-optional static analysis
 * first class documentation
-* convenience without comprimise
-* features like iterators, generics, hygenic macros...
+* convenience without compromise
+* features like iterators, generics, hygienic macros...
 
 ## A language that has learned
 
@@ -397,7 +397,7 @@ struct AdcReading {
 
 ## serde data model
 
-* primatives (`u8`/`i32`/`f64`/`bool`)
+* primitives (`u8`/`i32`/`f64`/`bool`)
 * arrays
 * structs
 * maps
