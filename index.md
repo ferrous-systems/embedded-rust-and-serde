@@ -214,7 +214,7 @@ for(int i = 0; i <= 10; i++) {
 
 ## alignment
 
-some devices (Arm) don't allow unaligned access at all
+some devices (arm) don't allow unaligned access at all
 
 ## when can problems happen?
 
@@ -323,10 +323,30 @@ AdcReading data = {
 
 * modern tooling
 * cross compilation
-* package management
 * non-optional static analysis
 * first class documentation
 * convenience without comprimise
+
+## A language that has learned
+
+take the best concepts from the last 30 years
+
+evolutionary rather than revolutionary
+
+## Correctness
+
+* memory safety
+* strong types
+* information drives optimization
+* move correctness from runtime to compile time
+
+## Modern Tooling
+
+* build system
+* package manager
+* documentation generation tool
+* testing framework
+* extensible, but sane defaults
 
 ## Efficient and Correct code doesn't have to be painful
 
@@ -632,6 +652,12 @@ turn C header files into Rust data/function declarations
 ## Rewrites are dangerous
 
 ## Find incremental successes
+
+## Messaging is usually well contained
+
+## Bite sized task
+
+## Lends well to tooling
 
 # Embedded Rust and Serde
 
